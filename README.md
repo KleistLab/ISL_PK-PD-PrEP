@@ -63,7 +63,7 @@ PK parameters for ISL were determined using a two-step approach. Parameter estim
 
 Using an established HIV-1 viral dynamics model, we estimated the log-change in VL by fitting the drug potency $IC_{50}$ through the execution of pd_optimization.py. The baseline, representing the pre-treatment condition of the viral dynamics model in the absence of ISL, can be computed using steady_state.py and is automatically executed by pd_optimization.py.
 
-To assess the prophylactic efficacy of ISL before (PrEP) or after (PEP) a viral challenge, we employed a novel numerical approach called PGS, published by a colleague from our research group. The program was customized to meet our specific requirements.
+To assess the prophylactic efficacy of ISL before (PrEP) or after (PEP) a viral challenge, we used a new numerical approach called PGS, published from our research group. The program was customized to meet our specific requirements.
 
 ## Code
 
