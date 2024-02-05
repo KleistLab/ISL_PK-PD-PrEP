@@ -39,7 +39,7 @@ project-root/
 │   └── pk_parameters.csv
 │
 ├── results/
-│   ├── pk_fitting.csv
+│   ├── pk_boundaries.csv
 │   ├── pk_bootstrap_estimates.csv
 │   └── pd_fitting.csv
 │
