@@ -137,7 +137,7 @@ positional arguments:
 
 ### PGS
 
-#Compute the prophylactic efficacy of ISL for both dosing forms, orally as tablet or as subdermal implant formulation for PEP/PrEP events.
+Compute the prophylactic efficacy of ISL for both dosing forms, orally as tablet or as subdermal implant formulation for PEP/PrEP events.
 
 ```bash
 usage: ./pgs.py [-h] [optional arguments]
