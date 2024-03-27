@@ -43,6 +43,8 @@ project-root/
 │   ├── pk_bootstrap_estimates.csv
 │   └── pd_fitting.csv
 │
+├── requirements.txt
+│
 └── README.md
 ```
 
